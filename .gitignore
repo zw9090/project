@@ -1,0 +1,4 @@
+#忽略当前文件下的try文件
+/try
+#忽略a.html
+a.html
